@@ -1,13 +1,12 @@
 ## custom stuff
-`tf/custom` stuff i've made! reach out at spiritov_v@pm.me to commission stuff within the scope of this repo\
-(i won't reply to questions)
+`tf/custom` stuff i've made! spiritov_v@pm.me to commission stuff in the scope of this repo.
 
 ## health image installation
 > [!IMPORTANT]
-> `resource/ui/HudPlayerHealth.res` and a `scripts/` health animation file need to be replaced for these to work. take a look at the [preinstalled](/health-images/preinstalled/) huds to see what they edit, or read below.
+> `resource/ui/HudPlayerHealth.res` and a `scripts/` animation file are replaced for these. go to [preinstalled](/health-images/preinstalled/) huds to see how they work, or read below.
 
 > [!NOTE]
-> positions and properties may be different for all huds and image sizes, and additional positioning troubleshooting may be necessary.
+> positions differ depending on the hud, so they may have to be messed with a lot..
 
 move health `.vmt` and `.vtf`s to `materials/vgui/replay/thumbnails/`
 ![image](https://github.com/user-attachments/assets/069a0605-0abc-45dc-886d-0222aa5ca6b6)
@@ -17,8 +16,8 @@ move health `.vmt` and `.vtf`s to `materials/vgui/replay/thumbnails/`
   <summary>edit health ui</summary>
 <br/>
   
-update or add these keys in `resource/ui/hudplayerhealth.res` 
-```json
+update or add these fields in `resource/ui/hudplayerhealth.res` 
+```js
 "buff"
 {
 	"ControlName"          "ImagePanel"

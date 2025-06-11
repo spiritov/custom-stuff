@@ -8,6 +8,11 @@
 
 > [!NOTE]
 > positions and properties may be different for all huds and image sizes, and additional positioning troubleshooting may be necessary.
+
+move health `.vmt` and `.vtf`s to `materials/vgui/replay/thumbnails/`
+![image](https://github.com/user-attachments/assets/069a0605-0abc-45dc-886d-0222aa5ca6b6)
+
+
 <details>
   <summary>edit health ui</summary>
 <br/>

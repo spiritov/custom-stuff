@@ -104,7 +104,7 @@ event HudHealthDyingPulseStop
 </details>
 
 ## images
-> ### ascii faces
+> #### [ascii faces](/health-images/preinstalled/ascii-faces/)
 > buff
 >
 > ![image](https://github.com/user-attachments/assets/b8933603-7d52-41d1-a924-afb55f3eecd3)
@@ -113,7 +113,7 @@ event HudHealthDyingPulseStop
 > 
 > ![image](https://github.com/user-attachments/assets/832cb75d-d0b6-445d-b4de-a6f3f1d9d82b)
 
-> ### oyasumi [(source image)](https://www.pixiv.net/artworks/75496673)
+> #### [oyasumi](/health-images/preinstalled/oyasumi/) [(image source)](https://www.pixiv.net/artworks/75496673)
 > buff
 > ![image](https://github.com/user-attachments/assets/cbf06c3f-fe69-4aed-b2b5-1e235befa3ab)
 > hurt
@@ -121,5 +121,5 @@ event HudHealthDyingPulseStop
 > halo
 > ![image](https://github.com/user-attachments/assets/ded576cf-1a81-4b7e-91cf-172bcdc2693a)
 
-> ### purple rockettrail
+> #### purple rockettrail
 > ![image](https://github.com/user-attachments/assets/85cce5e0-d525-4164-a270-58f2426be587)

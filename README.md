@@ -127,3 +127,6 @@ event HudHealthDyingPulseStop
 
 > #### purple rockettrail
 > ![image](https://github.com/user-attachments/assets/85cce5e0-d525-4164-a270-58f2426be587)
+> ### nosmoke
+> ![image](https://github.com/user-attachments/assets/4c3e80df-5656-4192-a067-3a523e0d4cee)
+
